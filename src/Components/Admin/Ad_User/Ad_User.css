@@ -1,0 +1,65 @@
+/* file css *//* file css */
+/* ===============================================bar-User============================================  */
+.line-line{
+    color: #fff;
+    position: relative;
+    top: 0.7rem;
+}
+.bar-user{
+    color: #FFC107;
+    position: relative;
+    top: 0.7rem;
+}
+.bar-film{
+    color: #ffff;
+    position: relative;
+    top: 0.7rem;
+}
+.bar-user:hover{
+    color: #FFC107;
+}
+.mess{
+    color: #06111D;
+    position: relative;
+    top: 0.7rem;
+}
+.name-acc{
+    color: aliceblue;
+    position: relative;
+    top: 0.7rem;
+}
+.backgroud-bar{
+    background-color: #858C94;
+    height: 3rem;
+}
+/* add */
+.add-btn{
+    border: none;
+    text-decoration: none;
+    background-color: #E00813;
+    color: #ffff;
+    padding: 0.4rem;
+    border-radius: 0.3rem;
+}
+.add-btn:hover{
+    color: #E00813;
+    background-color: #ffff;
+}
+/* table */
+#dataTable{
+    color: #ffff;
+}
+.del-icon, .lock-icon{
+    color: #E00813;
+    font-size: 1.4rem;
+    margin-left: 1rem;
+}
+ .unlock-icon{
+    font-size: 1.4rem;
+    margin-left: 1rem;
+}
+button{
+    background-color: #0B1A2A;
+    border: none;
+    color: #fff;
+}

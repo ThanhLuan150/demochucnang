@@ -1,0 +1,47 @@
+/* file css *//* file css */
+/* ======================================================Schedule=============================== */
+.line-line{
+    color: #fff;
+    position: relative;
+    top: 0.7rem;
+}
+.bar-user{
+    color: #fff;
+    position: relative;
+    top: 0.7rem;
+}
+.bar-film{
+    color: #FFC107;
+    position: relative;
+    top: 0.7rem;
+}
+.bar-film:hover{
+    color: #FFC107;
+}
+.mess{
+    color: #06111D;
+    position: relative;
+    top: 0.7rem;
+}
+.name-acc{
+    color: aliceblue;
+    position: relative;
+    top: 0.7rem;
+}
+.backgroud-bar{
+    background-color: #858C94;
+    height: 3rem;
+}
+/* add */
+.add-btn{
+    border: none;
+    text-decoration: none;
+    background-color: #E00813;
+    color: #ffff;
+    padding: 0.4rem;
+    border-radius: 0.3rem;
+}
+.add-btn:hover{
+    color: #E00813;
+    background-color: #ffff;
+}

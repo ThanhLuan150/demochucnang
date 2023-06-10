@@ -1,0 +1,123 @@
+/* file css */
+/* ==============================bar-Film=================  */
+.line-line {
+    color: #fff;
+    position: relative;
+    top: 0.7rem;
+}
+
+.bar-user {
+    color: #fff;
+    position: relative;
+    top: 0.7rem;
+    text-decoration: none;
+}
+
+.bar-film {
+    color: #FFC107;
+    position: relative;
+    top: 0.7rem;
+
+}
+
+.bar-user:hover {
+    color: #FFF;
+}
+
+.bar-film:hover {
+    color: #FFC107;
+}
+
+.mess {
+    color: #06111D;
+    position: relative;
+    top: 0.7rem;
+}
+
+.name-acc {
+    color: aliceblue;
+    position: relative;
+    top: 0.7rem;
+}
+
+.backgroud-bar {
+    background-color: #858C94;
+    height: 3rem;
+}
+
+/* table */
+#dataTable {
+    color: #ffff;
+}
+
+.icon-ac-edit {
+    color: #FFC107;
+    font-size: 1.3rem;
+
+}
+
+.icon-ac-del {
+    color: #E00813;
+    font-size: 1.3rem;
+    margin-left: 0.2rem;
+}
+.icon-ac-add{
+    color: #16FF00;
+    font-size: 1.3rem;
+    margin-left: 0.2rem;
+}
+/* Modal */
+.input-btn {
+    border-radius: 4px;
+    border: none;
+}
+
+.input-btn:hover {
+    border-radius: 4px;
+}
+.btn-edit, .btn-schedule{
+    border: none;
+    background-color: #0B1A2A;
+}
+.modal-header {
+    background: #E00813;
+}
+
+.modal-title {
+    color: #FFF;
+}
+
+.close {
+    color: white;
+    background: #E00813;
+    border: none;
+    font-size: 20px;
+}
+
+.modal-body {
+    background: #0B1A2A;
+}
+
+.title-title {
+    color: #FFF;
+    display: flex;
+    align-items: start;
+}
+
+#name {
+    width: 400px;
+}
+.desc p, .trailer_ p, .name p{
+    white-space: nowrap; 
+    width: 150px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* .cat{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+} */
+.form-form label{
+    color:#fff
+}
